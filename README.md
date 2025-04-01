@@ -25,8 +25,8 @@ This project implements a **Retrieval-Augmented Generation (RAG) Chatbot** that 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Rukkya/rag-chatbot.git
-    cd rag-chatbot
+    git clone https://github.com/Rukkya/rag.f.git
+    cd rag.f
     ```
 
 2. Set up a virtual environment (optional but recommended):
@@ -47,7 +47,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) Chatbot** that 
 ## Usage
 1. **Start Flask Backend**:
     ```bash
-    python app.py
+    python3 app.py
     ```
 
 2. **Start Streamlit Frontend**:
